@@ -1,1 +1,1 @@
-# AngularTodolist
+# TodosApp front-end with Angular
